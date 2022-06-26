@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seun
-- 👀 I’m interested in javascript, node js and vue
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any project involving js
+- 👀 I’m interested in _____,
+- 🌱 I’m currently learning ______
+- 💞️ I’m looking to collaborate on any project involving _____
 - 📫 You can reach me through my email: oseunamore@gmail.com or linkedIn: www.linkedin.com/in/oseunamore 
 
 <!---
